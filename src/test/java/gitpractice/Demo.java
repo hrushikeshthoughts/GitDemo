@@ -6,6 +6,7 @@ public class Demo {
 		
 		System.out.println("Test Case 1 -A");
 		System.out.println("Test Case 1 -B");
+		System.out.println("Test Case 1 -C");
 
 	}
 
