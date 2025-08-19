@@ -6,4 +6,8 @@ public class Test {
 		
 		System.out.println("Web Application Testing");
 	}
+  public void mobileTest() {
+		
+		System.out.println("Mobile Application Testing");
+	}
 }
